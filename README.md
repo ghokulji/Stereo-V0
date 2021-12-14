@@ -2,6 +2,7 @@
 Estimate the trajectory of a moving vehicle from stereo image sequence
 
 # Pipeline
+![Slide6](https://user-images.githubusercontent.com/28822039/146086064-ecebbd18-849d-46aa-98b5-a77c826c3048.jpg)
 
 # Results
 
